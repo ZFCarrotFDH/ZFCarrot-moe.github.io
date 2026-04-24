@@ -2,7 +2,6 @@
 baseurl      = "https://ZFCarrot-moe.github.io/"
 languageCode = "zh-cn"
 title        = "追风卡洛特的小窝"
-theme = "hugo-theme-even"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
