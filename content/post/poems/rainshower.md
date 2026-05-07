@@ -27,7 +27,7 @@ tags:
 
 >II Night
 >
->A sheet of grey silk
+>Like sheets of grey silk
 >
 >Blurs thousands of tiny lights
 >
