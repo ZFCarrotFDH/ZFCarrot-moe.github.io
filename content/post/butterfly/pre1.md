@@ -1,6 +1,6 @@
-﻿---
-title: "「契约之蝶」 Pre.1"
-description: 卡贝吉来到了异世界😱
+---
+title: "「契约之蝶」 No.3"
+description: 卡洛特你走路好奇怪是为什么？
 slug: btf-pre-1
 date: 2026-05-23
 image:
@@ -14,7 +14,6 @@ tags:
     - 契约之蝶
     - 四爱
 ---
-
 
 Z=追风卡洛特 D=黛芙卡贝吉
 
