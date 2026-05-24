@@ -2,7 +2,7 @@
 title: "「契约之蝶」 No.5"
 description: 「原来我真的很萌🥺」
 slug: btf-no-5
-date: 2026-05-24
+date: 2026-05-25
 image:
 math: true
 hidden: false
