@@ -1,8 +1,8 @@
 ---
-title: "「契约之蝶」 No.0 & 1"
-description: 卡洛特来到了异世界😱
-slug: btf-no-0-1
-date: 2026-05-03
+title: "「契约之蝶」 No.4"
+description: 「色雾」的真相
+slug: btf-no-4
+date: 2026-05-24
 image:
 math: true
 hidden: false
