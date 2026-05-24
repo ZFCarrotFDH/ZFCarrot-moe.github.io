@@ -2,7 +2,7 @@
 title: "「契约之蝶」 No.4"
 description: 「色雾」的真相
 slug: btf-no-4
-date: 2026-05-24
+date: 2026-05-21
 image:
 math: true
 hidden: false
