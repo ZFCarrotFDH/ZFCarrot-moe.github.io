@@ -12,9 +12,12 @@ categories:
     - Maths
 tags:
     - 数学
+links:
+  - title: 河源中学数学研究协会
+    website: https://hzmath.github.io
 ---
 
-原文<hzmath.github.io/我能在数学选必部分只看了第三册的情况下完成全错排通项公式推导吗>，2026/03/28
+[原文](https://hzmath.github.io/post/2026/03/%E6%88%91%E8%83%BD%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%80%89%E5%BF%85%E9%83%A8%E5%88%86%E5%8F%AA%E7%9C%8B%E4%BA%86%E7%AC%AC%E4%B8%89%E5%86%8C%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E5%AE%8C%E6%88%90%E5%85%A8%E9%94%99%E6%8E%92%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC%E5%90%97/)
 
 ## 导入
 
