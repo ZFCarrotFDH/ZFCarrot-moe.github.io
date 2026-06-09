@@ -7,12 +7,14 @@ image:
 math: true
 hidden: false
 comments: true
-darft: true
+darft: false
 categories:
     - Biology
 tags:
     - 生物学联赛
 ---
+
+![源文件](ori.pdf)
 
 ## 注意事项
 
