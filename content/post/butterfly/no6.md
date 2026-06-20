@@ -1,7 +1,7 @@
 ---
-title: "「契约之蝶」 No.7"
+title: "「契约之蝶」 No.6"
 description: 原来你怕痒啊，萝卜
-slug: btf-no-7
+slug: btf-no-6
 date: 2026-06-20
 image:
 math: true
