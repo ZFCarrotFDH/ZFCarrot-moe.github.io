@@ -15,7 +15,7 @@ tags:
     - 自制谱
 links:
   - title: 卡洛特的自制谱仓库
-    website: https://wwbcs.lanzoub.com/b0d5tvof
+    website: https://wwbcs.lanzoub.com/b02d5tvof
 ---
 
 一只音游人自己塞的粉扑.
