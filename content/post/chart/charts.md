@@ -14,7 +14,7 @@ tags:
     - 音游
     - 自制谱
 links:
-  - title: 卡洛特的自制谱仓库
+  - title: 卡洛特的自制谱仓库（提取码zfca）
     website: https://wwbcs.lanzoub.com/b02d5tvof
 ---
 
