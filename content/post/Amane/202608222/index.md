@@ -1,7 +1,7 @@
 ---
 title: "好美啊..."
 description: 
-slug: amane-8-22
+slug: amane-26-08-22
 date: 2026-08-22
 image: mmexport1787317394346.jpg
 math: true
