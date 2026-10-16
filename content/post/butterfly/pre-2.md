@@ -1,5 +1,5 @@
 ---
-title: "「契约之蝶」 Pre.2"
+title: "「契约之蝶」 Pre. 2"
 description: 萝卜白菜，互相都爱？是这么说吧
 slug: pre-2
 date: 2026-10-11
