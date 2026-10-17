@@ -1,6 +1,6 @@
 ---
 title: "「契约之蝶」 No. 5.2.2"
-description: 庖丁你再看看你旁边呢
+description: 庖丁姐牛啊！
 slug: btf-no-5-2-2
 date: 2026-10-01
 image:
