@@ -1,6 +1,7 @@
 ---
 title: "Rainshower"
 description: 雨中俳句二首
+slug: rainshower
 date: 2026-05-06
 image:
 math: true
